@@ -1,4 +1,3 @@
-
         // Smooth scrolling
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
@@ -18,7 +17,8 @@
                 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
                 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
                 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
-                'linear-gradient(135deg, #fa709a 0%, #fee140 100%)'
+                'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
+                'linear-gradient(135deg, #bab4b5ff 0%, #c92096ff 100%)'
             ];
             
             const randomGradient = gradients[Math.floor(Math.random() * gradients.length)];
@@ -57,4 +57,3 @@
         });
 
         console.log('🚀 Portfolio loaded successfully!');
-    
