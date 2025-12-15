@@ -77,7 +77,7 @@ HTML (HyperText Markup Language) is the skeleton of your website. It defines the
 **Example from our code:**
 ```html
 <nav>
-    <div class="logo">YourName</div>
+    <div class="logo">Ranadeep Layak</div>
     <div class="nav-links">
         <a href="#about">About</a>
     </div>
@@ -98,7 +98,7 @@ HTML (HyperText Markup Language) is the skeleton of your website. It defines the
 ```html
 <div class="hero">
     <div class="hero-content">
-        <h1>Hi, I'm Your Name</h1>
+        <h1>Hi, I'm Ranadeep Layak</h1>
     </div>
 </div>
 ```
